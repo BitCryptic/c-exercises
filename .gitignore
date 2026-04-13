@@ -1,0 +1,45 @@
+# ─── Build-Ausgaben ───────────────────────────────────────
+build/
+out/
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# ─── CMake ────────────────────────────────────────────────
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
+
+# ─── CLion ────────────────────────────────────────────────
+.idea/
+cmake-build-*/
+
+# ─── Visual Studio ────────────────────────────────────────
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.user
+Debug/
+Release/
+x64/
+x86/
+ipch/
+*.ncb
+*.opendb
+*.sdf
+*.suo
+
+# ─── macOS System ─────────────────────────────────────────
+.DS_Store
+
+# ─── Windows System ───────────────────────────────────────
+Thumbs.db
+desktop.ini
