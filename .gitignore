@@ -21,7 +21,7 @@ compile_commands.json
 .idea/
 cmake-build-*/
 
-# ─── Visual Studio ────────────────────────────────────────
+# ─── Visual Studio (falls genutzt) ────────────────────────
 .vs/
 *.vcxproj
 *.vcxproj.filters
