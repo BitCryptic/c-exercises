@@ -1,4 +1,6 @@
 set(CMAKE_C_STANDARD 11)
-add_executable(taschengeld_rechner          taschengeld_rechner.cpp
-        MyFunctions.cpp)
-add_executable(Uebungsaufgabe_1             Uebungsaufgabe_1.cpp)
+add_executable(taschengeld_rechner           taschengeld_rechner.cpp)
+add_executable(MyFunctions                   MyFunctions.cpp)
+add_executable(mini_control_statement        mini_control_statement.cpp)
+add_executable(summe_positiv_anzahl_negativ  summe_positiv_anzahl_negativ.cpp)
+add_executable(Uebungsaufgabe_1              Uebungsaufgabe_1.cpp)
